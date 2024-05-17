@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="68a48aec-865a-4f48-8e1b-597cc2eeae3e" name="Changes" comment="add github link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contact_Me.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_Me.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_mail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <workItem from="1715761001030" duration="3408000" />
       <workItem from="1715787731090" duration="4560000" />
       <workItem from="1715827297689" duration="6094000" />
-      <workItem from="1715912893262" duration="3880000" />
+      <workItem from="1715912893262" duration="5284000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -149,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715833087969</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add github link">
+      <option name="closed" value="true" />
+      <created>1715917168066</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715917168066</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +186,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/app2_portfolio$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1715828579139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/app2_portfolio$Contact_Us.coverage" NAME="Contact_Us Coverage Results" MODIFIED="1715913725338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/pages" />
+    <SUITE FILE_PATH="coverage/app2_portfolio$Contact_Us.coverage" NAME="Contact_Us Coverage Results" MODIFIED="1715917004800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/pages" />
   </component>
 </project>
