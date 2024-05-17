@@ -1,4 +1,6 @@
-import smtplib,ssl
+import smtplib
+import ssl
+
 
 def send_mail(message):
     Username = "sakhareliyayash03@gmail.com"
